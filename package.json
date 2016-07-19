@@ -1,0 +1,21 @@
+{
+  "name": "react-class-displayname",
+  "version": "0.1.0",
+  "description": "Add displayName to React.Component classes",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel-plugin build",
+    "push": "babel-plugin publish",
+    "test": "babel-plugin test"
+  },
+  "keywords": [
+    "babel-plugin",
+    "react",
+    "displayName"
+  ],
+  "author": "David Carter",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.10.4"
+  }
+}
