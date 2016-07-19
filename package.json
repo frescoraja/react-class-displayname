@@ -1,6 +1,6 @@
 {
   "name": "react-class-displayname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add displayName to React.Component classes",
   "main": "lib/index.js",
   "scripts": {
